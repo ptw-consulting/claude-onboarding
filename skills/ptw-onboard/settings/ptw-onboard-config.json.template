@@ -1,0 +1,9 @@
+{
+  "_comment": "Filled in by the PTW operator during the in-person session. Values come from the operator's own 1Password or notes. If any value contains <<...>>, the conversion levers (/ask-pete, 14d cron, 30d cron) will fail loudly rather than spam a misconfigured target. DO NOT commit this file with real values — it lives in ~/.claude/projects/<proj>/ and is per-client.",
+  "operator_display_name": "<<OPERATOR_NAME>>",
+  "operator_slack_channel_id": "<<OPERATOR_SLACK_CONNECT_CHANNEL_ID>>",
+  "operator_email": "<<OPERATOR_EMAIL>>",
+  "client_display_name": "<<CLIENT_NAME_FOR_OPERATOR>>",
+  "expected_response_time": "usually within a business day",
+  "setup_date": "<<YYYY-MM-DD>>"
+}

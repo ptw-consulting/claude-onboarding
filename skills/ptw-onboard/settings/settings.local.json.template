@@ -1,0 +1,31 @@
+{
+  "_comment": "Universal allowlist for a non-developer SMB user. Merged into ~/.claude/settings.local.json during the in-person session. Cuts permission-prompt fatigue without exposing risky surface area. Add more entries to fewer-permission-prompts skill output as you observe friction.",
+  "permissions": {
+    "allow": [
+      "Bash(open:*)",
+      "Bash(ls:*)",
+      "Bash(pwd)",
+      "Bash(cat:*)",
+      "Bash(echo:*)",
+      "Bash(which:*)",
+      "Bash(brew list:*)",
+      "Bash(git status)",
+      "Bash(git diff)",
+      "Bash(git log:*)",
+      "WebSearch",
+      "WebFetch(domain:docs.google.com)",
+      "WebFetch(domain:support.google.com)",
+      "WebFetch(domain:support.microsoft.com)",
+      "WebFetch(domain:claude.ai)",
+      "WebFetch(domain:anthropic.com)",
+      "mcp__claude-in-chrome__tabs_context_mcp",
+      "mcp__claude-in-chrome__tabs_create_mcp",
+      "mcp__claude-in-chrome__tabs_close_mcp",
+      "mcp__claude-in-chrome__navigate",
+      "mcp__claude-in-chrome__read_page",
+      "mcp__claude-in-chrome__get_page_text",
+      "mcp__claude-in-chrome__find",
+      "mcp__claude-in-chrome__read_console_messages"
+    ]
+  }
+}
