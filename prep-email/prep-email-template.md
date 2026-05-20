@@ -16,7 +16,7 @@ A few things to have ready before [day] so we don't burn the 30 minutes on insta
 
 **Logged in (in your browser) to whichever you actually use:**
 - Google Workspace (Gmail / Calendar / Drive) or Microsoft 365 (Outlook / Calendar / OneDrive)
-- Slack
+- Slack -- if it's what you use in your flow
 
 Nothing to install for those -- just signed in and ready to open.
 
