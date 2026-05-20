@@ -1,6 +1,6 @@
 # Claude Onboarding
 
-A 30-minute, sit-down setup that gets a non-technical user from "I downloaded Claude" to "Claude is wired into my actual workflow." Built by [PTW Consulting](https://ptwconsultingllc.com).
+A 30-minute, in-person setup that gets Claude wired into anyone's workflow. Built by [PTW Consulting](https://ptwconsultingllc.com).
 
 ## What this is
 
